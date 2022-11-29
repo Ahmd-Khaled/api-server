@@ -1,0 +1,1136 @@
+{
+    "products": [
+        {
+            "id": "BackInStock-P001",
+            "category": "BackInStock",
+            "link": "/product",
+            "note": "Angus Beef",
+            "imgSrc": "Beef Mince.jpg",
+            "prodName": "Beef Mince",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "URUGUAY",
+            "priceAfter": "",
+            "priceBefore": "36.00",
+            "measure": "pack",
+            "quntity": "Low Fat - 500g",
+            "icons": [
+            "Fresh",
+            "Hormones",
+            "Stock"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "BackInStock-P002",
+            "category": "BackInStock",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Coconut Milk.jpg",
+            "prodName": "Coconut Milk",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "KOKO",
+            "priceAfter": "",
+            "priceBefore": "15.00",
+            "measure": "pack",
+            "quntity": "Super Enriched - 1 Litre",
+            "icons": [
+            "Vegan",
+            "Stock"
+            ],
+            "regularBtn": true,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "BuyBulk-P001",
+            "category": "BuyBulk",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "ComingSoon-P001",
+            "category": "ComingSoon",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Diwali-P001",
+            "category": "Diwali",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Mazedar Kissey.jpg",
+            "prodName": "Mazedar Kissey",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "HALDIRAM'S",
+            "priceAfter": "",
+            "priceBefore": "28.50",
+            "measure": "pack",
+            "quntity": "Mix Variety - 1.3kg",
+            "icons": [
+            "Diwali",
+            "Stock"
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "GlutenFree-P001",
+            "category": "GlutenFree",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Halloween-P001",
+            "category": "Halloween",
+            "link": "/product",
+            "note": "Pre-orders only",
+            "imgSrc": "Pumpkin.jpg",
+            "prodName": "Pumpkin",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "SPAIN",
+            "priceAfter": "27.00",
+            "priceBefore": "30.00",
+            "measure": "piece",
+            "quntity": "Approx. Handball size",
+            "icons": [
+            "Hallo"
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Halloween-P002",
+            "category": "Halloween",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Pumpkin Soup.jpg",
+            "prodName": "Pumpkin Soup",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "SOULE SOUPS",
+            "priceAfter": "",
+            "priceBefore": "15.50",
+            "measure": "pack",
+            "quntity": "Roasted Pumpkin - 500ml",
+            "icons": [
+            "Fresh",
+            "Vegan",
+            "Gluten"
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Imperfet-P001",
+            "category": "Imperfet",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Keto-P001",
+            "category": "Keto",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Local-P001",
+            "category": "Local",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P001",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Chimichurri Sauce.jpg",
+            "prodName": "Chimichurri Sauce",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "Thrriv",
+            "priceAfter": "",
+            "priceBefore": "14.75",
+            "measure": "pack",
+            "quntity": "Mild Spicy - 200g",
+            "icons": [
+            "Fresh",
+            "New",
+            "Local"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            "Bright and tangy, chimichurri sauce is a staple in South American cooking. This zesty sauce featuring fresh cilantro, parsley, red pepper flakes and garlic will bring a bright herby kick to any dish you can think of."
+            ],
+            "ingredients": [
+            "Olive Oil",
+            "Fresh Parsley",
+            "Garlic",
+            "Red Grape Vinegar",
+            "Thai red chillies",
+            "Oregano",
+            "Salt",
+            "Pepper"
+            ],
+            "nutrition": [],
+            "storage": [
+            "Keep Chilled"
+            ],
+            "productOrigin": "UAE",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P002",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "Expiry: 30 Nov 2022",
+            "imgSrc": "Ginger Ground.jpg",
+            "prodName": "Ginger Ground",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "Nomu",
+            "priceAfter": "9.75",
+            "priceBefore": "14.00",
+            "measure": "bundle",
+            "quntity": "2 x 30g",
+            "icons": [
+            "New",
+            "Promo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            "Ginger is one the healthiest and handiest items to have on hand in your kitchen. Add it to a cup of tea, when cooking a savoury dish or even use when baking in the kitchen.",
+            "Intended to tempt and inspire, NOMU Essentials are the highest quality, simple ingredients that everybody needs, selected as always to help you create the highest levels of flavour, quality and consistency.",
+            "Established in December 2000, NOMU has had an unusually Personal journey. The brand is approachable and accessible with a product range that is so easy to use to create wonderful, flavoursome, food experiences for any occasion.",
+            "Practical and convenient in the hands of an expert or a novice, every NOMU product reflects this simplistic approach. NOMU always aims to create flair, excitement and flavour in every product, from spices to vanilla essence, SWEETLY Range and even an amazing range of Hot Chocolate!"
+            ],
+            "ingredients": [
+            "Ginger Ground"
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            "Store in a cool, dark and dry environment"
+            ],
+            "productOrigin": "South Africa",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P003",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "Pre-orders only",
+            "imgSrc": "Pie Pumpkin.jpg",
+            "prodName": "Pie Pumpkin",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "United States",
+            "priceAfter": "36.00",
+            "priceBefore": "40.00",
+            "measure": "piece",
+            "quntity": "Handball size",
+            "icons": [
+            "New",
+            "Hallo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P004",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "Pre-orders only",
+            "imgSrc": "Pie Pumpkin.jpg",
+            "prodName": "Pie Pumpkin",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "United States",
+            "priceAfter": "36.00",
+            "priceBefore": "40.00",
+            "measure": "piece",
+            "quntity": "Handball size",
+            "icons": [
+            "New",
+            "Hallo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P005",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "Pre-orders only",
+            "imgSrc": "Pie Pumpkin.jpg",
+            "prodName": "Pie Pumpkin",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "United States",
+            "priceAfter": "36.00",
+            "priceBefore": "40.00",
+            "measure": "piece",
+            "quntity": "Handball size",
+            "icons": [
+            "New",
+            "Hallo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P006",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "Pre-orders only",
+            "imgSrc": "Pie Pumpkin.jpg",
+            "prodName": "Pie Pumpkin",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "United States",
+            "priceAfter": "36.00",
+            "priceBefore": "40.00",
+            "measure": "piece",
+            "quntity": "Handball size",
+            "icons": [
+            "New",
+            "Hallo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "NewArrivals-P007",
+            "category": "NewArrivals",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Coconut Milk.jpg",
+            "prodName": "Coconut Milk",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "KOKO",
+            "priceAfter": "",
+            "priceBefore": "15.00",
+            "measure": "pack",
+            "quntity": "Super Enriched - 1 Litre",
+            "icons": [
+            "Vegan",
+            "Stock"
+            ],
+            "regularBtn": true,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Organic-P001",
+            "category": "Organic",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Promotion-P001",
+            "category": "Promotion",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Sainsbury-P001",
+            "category": "Sainsbury",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "Vegan-P001",
+            "category": "Vegan",
+            "link": "/product",
+            "note": "",
+            "imgSrc": ".jpg",
+            "prodName": "",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "",
+            "measure": "",
+            "quntity": "",
+            "icons": [
+            ""
+            ],
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P001",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Godiva Napolitain.jpg",
+            "prodName": "Godiva Napolitain",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "GODIVA",
+            "priceAfter": "",
+            "priceBefore": "125.00",
+            "measure": "Pack",
+            "quntity": "Diwali Edition - 56 pcs",
+            "icons": [
+            "Diwali",
+            "New"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P002",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Plantains.jpg",
+            "prodName": "Plantains",
+            "initValue": 0.25,
+            "prodQuantity": 0,
+            "origin": "INDIA",
+            "priceAfter": "",
+            "priceBefore": "12.25",
+            "measure": "kg",
+            "quntity": "Approx 3-4 pieces per kg",
+            "icons": [],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "India",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P003",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Vegan Meat Bundles.jpg",
+            "prodName": "Vegan Meat Bundles",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "FUTURE FARM",
+            "priceAfter": "39.50",
+            "priceBefore": "52.75",
+            "measure": "Bundle",
+            "quntity": "Smoked Burger 230g & Sausage 230g",
+            "icons": [
+            "Frozen",
+            "Promo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P004",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Ivory Grapes.jpg",
+            "prodName": "Ivory Grapes",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "",
+            "priceAfter": "",
+            "priceBefore": "62.50",
+            "measure": "Carton",
+            "quntity": "Seedless - 10 packs x 500g each one",
+            "icons": [
+            "New",
+            "Bulk"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P005",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Chocolate.jpg",
+            "prodName": "Chocolate",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "ROOSIKU",
+            "priceAfter": "38.50",
+            "priceBefore": "55.50",
+            "measure": "Carton",
+            "quntity": "Lingobberry - 6x 37g",
+            "icons": [
+            "Promo"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        },
+        {
+            "id": "sliderProducts-P006",
+            "category": "sliderProducts",
+            "link": "/product",
+            "note": "",
+            "imgSrc": "Soya Caramel Milk.jpg",
+            "prodName": "Soya Caramel Milk",
+            "initValue": 1,
+            "prodQuantity": 0,
+            "origin": "BELGIUM",
+            "priceAfter": "",
+            "priceBefore": "8.75",
+            "measure": "Pack",
+            "quntity": "Coffee - 250ml",
+            "icons": [
+            "Vegan",
+            "New"
+            ],
+            "regularBtn": false,
+            "chooseDesign": false,
+            "designImages": [
+            ""
+            ],
+            "description": [
+            ""
+            ],
+            "ingredients": [
+            ""
+            ],
+            "nutrition": [
+            ""
+            ],
+            "storage": [
+            ""
+            ],
+            "productOrigin": "",
+            "more": [
+            ""
+            ],
+            "favProd": false
+        }
+        ],
+        "users": []
+    }
